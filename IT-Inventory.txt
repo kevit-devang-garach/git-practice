@@ -1,11 +1,2 @@
-GARACH DEVANG BHARATBHAI
-801
-DELL
-CPU Service Tag: 8KKR6T2
-HDMI Cable: YX53C-GLT2-138
-Monitor No.: FQN1XC3
-Monitor Screen Size: 24
-RAM: 8GB
-HDD: 256GB
-CPU Varient: OptiPlex 3060
+hello 
 ///
