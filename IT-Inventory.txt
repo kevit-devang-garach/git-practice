@@ -8,4 +8,4 @@ Monitor Screen Size: 24
 RAM: 8GB
 HDD: 256GB
 CPU Varient: OptiPlex 3060
-//
+///
