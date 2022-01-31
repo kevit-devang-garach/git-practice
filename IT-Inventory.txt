@@ -2,12 +2,6 @@ hello
 ///
 jkjkjk
 
-<<<<<<< Updated upstream
-////
-]
-
-
-=======
 Hello my name is devang leraning git operations,
 and trying to get conflicts
 .............................
@@ -17,4 +11,3 @@ changing new code
 
 
 please check it well.... it make difference
->>>>>>> Stashed changes
