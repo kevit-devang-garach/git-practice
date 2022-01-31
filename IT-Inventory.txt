@@ -6,11 +6,8 @@ Hello my name is devang leraning git operations,
 and trying to get conflicts
 .............................
 happy coding
-<<<<<<< HEAD
-=======
 ===============================
 changing new code
 
 
 please check it well.... it make difference
->>>>>>> staging
